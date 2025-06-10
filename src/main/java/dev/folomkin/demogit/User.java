@@ -6,4 +6,8 @@ public class User {
     //3
     //4
     //5
+
+    // New line:
+    // 10
+    // 11
 }
